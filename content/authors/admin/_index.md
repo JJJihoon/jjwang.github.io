@@ -142,5 +142,4 @@ languages:
 ## About Me
 
 Hi! I'm an undergraduate student majored in Industrial Engineering. I am rather extroverted and I enjoy makeing new friends with others. Besides my academic life, I love playing volleyball and singing (I love KPOP very much Haha). Currently I'm preparing for my PhD application, looking forward to reveiving an amzaing offer!
-
 ---
