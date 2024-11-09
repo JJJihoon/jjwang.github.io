@@ -104,14 +104,14 @@ Project:
 
 PATENTS & PUBLICATIONS:
  - Patent: Ground Penetrating Radar Data Intelligent Processing Platform (2024SR0565457)
- - Published_work:
- A review of key parameters affecting inorganic scaling in thermal, pressure, and osmosis-driven membranes for produced water desalination (https://doi.org/10.1016/j.seppur.2024.129023)
- Research on peak transport congestion control based on convolutional neural network （DOI:10.1117/12.2684328）
- Analysis of the Influencing Factors of the Garbage Sorting Behavior on Campus in the Post-Epidemic Period (DOI:DOI:10.54254/2753-7048/10/20230215)
- - Paper_under_review:
- Pedestrian and Non-Motor Vehicle Track Extraction and Traffic Characteristics Analysis at Intersection. (Submitted in Accident Analysis & Prevention)
- Spatial-Temporal Pattern Evolution and Driving Factors of Chinese Transportation Embodied Carbon Transfer. (Submitted in Journal of Cleaner Production)
- A Comparative Study of Traditional Models and Automated Error Detection System for Enhancing Laparoscopic Surgery Training. (Submitted in Applied Ergonomics)
+ - Published_work:  |2-
+   A review of key parameters affecting inorganic scaling in thermal, pressure, and osmosis-driven membranes for produced water desalination (https://doi.org/10.1016/j.seppur.2024.129023)
+   Research on peak transport congestion control based on convolutional neural network （DOI:10.1117/12.2684328）
+   Analysis of the Influencing Factors of the Garbage Sorting Behavior on Campus in the Post-Epidemic Period (DOI:DOI:10.54254/2753-7048/10/20230215)
+ - Paper_under_review:  |2-
+   Pedestrian and Non-Motor Vehicle Track Extraction and Traffic Characteristics Analysis at Intersection. (Submitted in Accident Analysis & Prevention)
+   Spatial-Temporal Pattern Evolution and Driving Factors of Chinese Transportation Embodied Carbon Transfer. (Submitted in Journal of Cleaner Production)
+   A Comparative Study of Traditional Models and Automated Error Detection System for Enhancing Laparoscopic Surgery Training. (Submitted in Applied Ergonomics)
 
 
 # Skills
