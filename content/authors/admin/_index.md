@@ -1,17 +1,11 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: 王靖杰
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jingjie
+last_name: Wang
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +14,131 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Sichuan University - Pittsburgh Institute
+    url: https://scupi.scu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:wangjingjie@stu.scu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber-Physical-Human Systems
+  - Transportation and Emergency Management
+  - Human Factors
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Industrial Engineering
+    institution: Sichuan University
+    date_start: 2021-09-01
+    date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 3.92/4.00
+      Courses included:
+       Operations Research, Human Factors Engineering, Supply Chain Management, Simulation Modeling, Facility Layout and Material Handling, Information Systems Engineering, Engineering Computing, Design of Experiments and Quality Assurance, Manufacturing Process and Analysis, Data Analytics, etc.
+      Honor and Awards:
+       Sichuan University Comprehensive First-Class Scholarship (Top 1%)
+       Sichuan University Pittsburgh Institute Dean’s list (Top 5%)
+       Sichuan University Outstanding Student and Outstanding Student Leader (Top 5%)
+       Finalist of the 2024 Interdisciplinary Contest in Modeling (Top 2%, International Level)
+       Chinese Market Research Competition (Third Prize, National Level)
+       Tsinghua IE Liangjian-Industrial Engineering Application Case Competition (Third Prize, National Level)
+      Thesis on _Modeling the Effects of Driver Experience on Their Takeover Responses to Silent Failures in Partially Automated Driving_. Supervised by [Prof Xiaomei Tan](https://scupi.scu.edu.cn/faculty-staff/faculty/%e8%b0%ad%e7%ac%91%e6%a2%85). 
+   
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: International High School 
+    institution: WLSA Shanghai Academy （https://www.wlsashanghaiacademy.com/）
+    date_start: 2018-09-01
+    date_end: 2021-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+      GPA: 4.0/4.0
+      WLSA Elite Scholarship （News reported: https://www.sohu.com/a/384129972_469837）
+      UKChO Global Bronze Award in 2019
+
+Project:
+  - Theme: China’s Transportation-Related Embodied Carbon Transfer Patterns and Drivers
+    date_start: 2023-09
+    date_end: 2024-09
+    advised_by: Dr. Zeshui Xu, Business College, Sichuan University
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+      - Unveiled spatial-temporal evolution patterns of China’s transportation embodied carbon transfer with MRIO model.
+      - Integrated complex network theory to dissect and identify key provinces and patterns of the embodied carbon.
+      - Applied the STIRPAT-QAP model to investigate driving factors behind the embodied carbon transfers.
+
+  - Theme: Analysis and Algorithm Development for Mixed Traffic Flow Based on Road Video Data
+    date_start: 2023-09
+    date_end: 2024-09
+    advised_by: Dr. Wei Xie, Institute for Disaster Management and Reconstruction, Sichuan University
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed a methodology using YOLO-v8 and DeepSort algorithms for real-time detection and trajectory extraction.
+      - Applied homography transformation to map 2D coordinates and analyzed mixed traffic characteristics.
+      - Analyzed conflict avoidance behaviors and self-organizing patterns to improve safety and efficiency.
+
+  - Theme: Simulation and Optimization of Bandwidth Allocation in Cloud Computing Environment
+    date_start: 2023-02
+    date_end: 2023-09
+    advised_by: Dr. Haitao Liu, Business College, Sichuan University
+    summary: |2-
+      Responsibilities include:
+      - Designed a methodology using YOLO-v8 and DeepSort algorithms for real-time detection and trajectory extraction.
+      - Applied homography transformation to map 2D coordinates and analyzed mixed traffic characteristics.
+      - Analyzed conflict avoidance behaviors and self-organizing patterns to improve safety and efficiency.
+
+  - Theme: Enhancing Laparoscopic Surgery Training with Automated Error Detection System
+    date_start: 2022-09
+    date_end: 2023-09
+    advised_by: Dr. Rong Yin, Pittsburgh Institute, Sichuan University
+    summary: |2-
+      Responsibilities include:
+       - Developed the ATFS using Arduino, enabling real-time feedback and significantly reducing operation mistakes.
+       - Improved confidence and precision with ATFS, validated by paired t-tests and Wilcoxon signed-rank tests.
+       - Conducted between-group tests showing ATFS users performed better, highlighting its value for surgical training.
+
+PATENTS & PUBLICATIONS:
+ - Patent: Ground Penetrating Radar Data Intelligent Processing Platform (2024SR0565457)
+ - Published_work:
+ A review of key parameters affecting inorganic scaling in thermal, pressure, and osmosis-driven membranes for produced water desalination (https://doi.org/10.1016/j.seppur.2024.129023)
+ Research on peak transport congestion control based on convolutional neural network （DOI:10.1117/12.2684328）
+ Analysis of the Influencing Factors of the Garbage Sorting Behavior on Campus in the Post-Epidemic Period (DOI:DOI:10.54254/2753-7048/10/20230215)
+ - Paper_under_review:
+ Pedestrian and Non-Motor Vehicle Track Extraction and Traffic Characteristics Analysis at Intersection. (Submitted in Accident Analysis & Prevention)
+ Spatial-Temporal Pattern Evolution and Driving Factors of Chinese Transportation Embodied Carbon Transfer. (Submitted in Journal of Cleaner Production)
+ A Comparative Study of Traditional Models and Automated Error Detection System for Enhancing Laparoscopic Surgery Training. (Submitted in Applied Ergonomics)
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Python，MATLAB, Minitab, R, SIMUL8, Tableau, SPSS
+ 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Volleyball
+        description: 'Captain in SCUPI volleyball team (Outside Hitter)'
+        icon: volleyball
+      - name: Debate
+        description: 'Member in SCUPI debate club'
+        icon: talk
+
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    TOEFL: 107 (Reading 28, Listening 28, Speaking 26, Writing 25)
+  - name: Madarine (Native)
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm an undergraduate student majored in Industrial Engineering. I am rather extroverted and I enjoy makeing new friends with others. Besides my academic life, I love playing volleyball and singing (I love KPOP very much Haha). Currently I'm preparing for my PhD application, looking forward to reveiving an amzaing offer!
